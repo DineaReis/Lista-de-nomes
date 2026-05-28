@@ -1,0 +1,93 @@
+# Lista de Nomes em JavaScript
+
+## 📌 Sobre o Projeto
+
+Este projeto foi desenvolvido em JavaScript com o objetivo de praticar métodos auxiliares de arrays e estruturas de repetição.
+
+O programa permite que o usuário gerencie uma lista de nomes diretamente pelo navegador utilizando interação contínua com `prompt()` e `console.log()`.
+
+---
+
+## 🚀 Funcionalidades
+
+* ➕ Adicionar nomes à lista com `push()`
+* 🔍 Filtrar nomes por letra inicial usando `filter()`
+* 🎯 Buscar um nome específico com `find()`
+* 🔠 Transformar nomes em letras maiúsculas usando `map()`
+* ✅ Verificar condições com `every()`
+* 🔄 Executar várias operações consecutivas utilizando `while`
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* JavaScript
+* HTML
+* CSS
+
+---
+
+## 📚 Métodos de Array Utilizados
+
+| Método     | Função                                                  |
+| ---------- | ------------------------------------------------------- |
+| `push()`   | Adiciona novos nomes ao array                           |
+| `filter()` | Filtra nomes por letra inicial                          |
+| `find()`   | Busca um nome específico                                |
+| `map()`    | Transforma os nomes em maiúsculo                        |
+| `every()`  | Verifica se todos os nomes possuem mais de 3 caracteres |
+
+---
+
+## ▶️ Como Executar o Projeto
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+```
+
+2. Abra o arquivo `index.html` no navegador.
+
+3. Utilize o menu interativo exibido através do `prompt()`.
+
+4. Veja os resultados no console do navegador (`F12` → Console).
+
+---
+
+## 📷 Exemplo de Uso
+
+```javascript
+Lista atualizada:
+["Ana", "Carlos", "Marina"]
+
+Nomes filtrados:
+["Marina"]
+
+Nome encontrado:
+Carlos
+
+Nomes em letras maiúsculas:
+["ANA", "CARLOS", "MARINA"]
+
+Todos os nomes têm mais de 3 caracteres?
+false
+```
+
+---
+
+## 🎯 Objetivo do Projeto
+
+Praticar:
+
+* Manipulação de arrays
+* Métodos auxiliares do JavaScript
+* Estruturas de repetição
+* Condicionais
+* Interação com o usuário
+
+---
+
+## 👨‍💻 Autor
+
+Projeto desenvolvido por Diea Reis.
